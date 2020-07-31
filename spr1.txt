@@ -1,2 +1,3 @@
-spreddy 
-spreddy
+class hello
+{
+}
